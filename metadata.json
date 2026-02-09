@@ -1,0 +1,5 @@
+{
+  "name": "MenteMappa AI",
+  "description": "Un assistente virtuale intelligente che genera mappe mentali interattive utilizzando Gemini e Markmap basandosi sulle tue idee.",
+  "requestFramePermissions": []
+}
